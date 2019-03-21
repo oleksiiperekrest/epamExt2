@@ -1,0 +1,4 @@
+powerMock?
+quizful.net
+stepik.org
+sql-ex.ru : joins, varchar, mchar, char, primary key, foreign key
