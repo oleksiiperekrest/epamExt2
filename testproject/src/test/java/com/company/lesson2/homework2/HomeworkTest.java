@@ -26,4 +26,11 @@ public class HomeworkTest {
         assertEquals(Arrays.toString(arrSwapped), Arrays.toString(arr));
 
     }
+
+    @Test
+    public void quickSort() {
+//        int[] arr = arrInit;
+//
+//        Homework.quickSort(arr);
+    }
 }

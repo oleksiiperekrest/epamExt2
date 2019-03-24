@@ -4,9 +4,7 @@ import com.company.lesson3.entity.Order;
 
 public class OrderRepository {
 
-
     private Order[] orders;
-
 
     public OrderRepository(Order[] orders) {
         this.orders = orders;
@@ -29,5 +27,4 @@ public class OrderRepository {
         }
         return null;
     }
-
 }

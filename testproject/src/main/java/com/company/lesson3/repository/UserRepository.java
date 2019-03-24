@@ -4,7 +4,6 @@ import com.company.lesson3.entity.User;
 
 public class UserRepository {
 
-
     private User[] users;
 
     public UserRepository(User[] users) {
@@ -29,6 +28,4 @@ public class UserRepository {
         }
         return null;
     }
-
-
 }
